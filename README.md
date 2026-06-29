@@ -2,7 +2,7 @@
 
 Techvision Analytics is a demo project for a fictional analytics company.
 
-This repository includes a basic GitHub Pages-ready site for Techvision Analytics with lightweight placeholder copy, repeated Techvision Analytics branding, and simple static content for demos.
+This repository includes a basic GitHub Pages-ready site with lightweight placeholder copy, repeated Techvision Analytics branding, and simple static content for demos.
 
 ## Demo content
 
